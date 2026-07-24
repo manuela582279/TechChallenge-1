@@ -21,7 +21,6 @@ C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\scopedcss\bundle\TechChallenge.styles.css
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\scopedcss\projectbundle\TechChallenge.bundle.scp.css
-C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\ytlfsu4i3q-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\yqhjzs9p3b-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\h0j58n4uyd-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\josp90vr6r-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -83,8 +82,6 @@ C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\tzdn2ukxsm-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\lzjl4kc8yh-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\esk9hi443t-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\i6grcyt2oz-{0}-dza3o6ultv-dza3o6ultv.gz
-C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\oksn0lo58u-{0}-dza3o6ultv-dza3o6ultv.gz
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\staticwebassets.development.json
@@ -95,3 +92,7 @@ C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\TechChallenge.pdb
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\TechChallenge.genruntimeconfig.cache
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\ref\TechChallenge.dll
+C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\TechChallenge.sourcelink.json
+C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\i6grcyt2oz-{0}-qr8a6h9svs-qr8a6h9svs.gz
+C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\oksn0lo58u-{0}-qr8a6h9svs-qr8a6h9svs.gz
+C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\ytlfsu4i3q-{0}-nq10vhgdp0-nq10vhgdp0.gz

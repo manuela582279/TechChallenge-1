@@ -1,5 +1,6 @@
 html {
   font-size: 14px;
+  color: #ffffff;
 }
 
 @media (min-width: 768px) {
@@ -17,9 +18,39 @@ html {
   min-height: 100%;
 }
 
+.home-banner {
+    text-align: center;
+    padding: 50px;
+    background: #2563EB;
+    border-radius: 8px;
+    color: #ffffff;
+    font-style: bold;
+}
+
+.Head-text {
+text-align: center;
+font-size: large;
+font-weight: bold;
+}
+
+
+.mid-text{
+  text-align: center;
+  font-size: small;
+ padding-top: 20px;
+}
+
 body {
   margin-bottom: 60px;
+  background-color:#F8FAFC;
+  color: #0F172A;
 }
+
+
+
+
+
+
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
