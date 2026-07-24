@@ -93,6 +93,6 @@ C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\TechChallenge.genruntimeconfig.cache
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\ref\TechChallenge.dll
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\TechChallenge.sourcelink.json
-C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\i6grcyt2oz-{0}-qr8a6h9svs-qr8a6h9svs.gz
-C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\oksn0lo58u-{0}-qr8a6h9svs-qr8a6h9svs.gz
 C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\ytlfsu4i3q-{0}-nq10vhgdp0-nq10vhgdp0.gz
+C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\i6grcyt2oz-{0}-tftiyj0crv-tftiyj0crv.gz
+C:\Users\DS2\Desktop\I4DS2semestre\TechChallenge\TechChallenge\obj\Debug\net10.0\compressed\oksn0lo58u-{0}-tftiyj0crv-tftiyj0crv.gz

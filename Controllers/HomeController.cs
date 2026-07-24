@@ -11,6 +11,22 @@ public class HomeController : Controller
         return View();
     }
 
+public IActionResult About ()
+    {
+
+//imagine que os dados abaixo vieram de um bando de dados
+
+//criando var que sera levados para uma page, no caso aqui, minha page About
+        ViewData["Nome"] = "Cristiano de Paula";
+        ViewData["Idade"] = 45;
+
+        ViewBag.Cidade = "Jau";
+        ViewBag.UF = "SP";   //viewbag e viewdata servem pra trasnportar dados do controller para a view, dados= API, db etc - Cris
+
+
+
+        return View();
+    }
     public IActionResult Privacy()
     {
         return View();
